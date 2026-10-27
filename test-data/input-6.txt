@@ -1,0 +1,10 @@
+# Test fallback when secondary is empty
+GT4500,2,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
+# Test ALL when primary is empty
+GT4500,0,0,1,0
+TORPEDO,ALL
